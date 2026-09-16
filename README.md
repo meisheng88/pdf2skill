@@ -3,6 +3,7 @@
 将专业 PDF 文档（标准 / 指引 / 规范 / 手册）转化为可复用的 Skill 技能包，实现文档知识的结构化提取、资源文件编写、质量验证与打包分发。
 
 https://mp.weixin.qq.com/s/cJjlVpiFACY36UmIKPj7KQ
+
 https://skillhub.cn/user/user_b818ef37
 
 ## 它能做什么
